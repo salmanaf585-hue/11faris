@@ -10,7 +10,7 @@ color: #191970; /* warna teks utama (merah cerah) */
   padding: 20px;
   background-color: cream;
   border-radius: 15px; /* membuat sudut menjadi melengkung */
-box-shadow; 0 4px 8px rgba(0,0,0,0.1)  /* efek bayangan */
+box-shadow: 0 4px 8px rgba(0,0,0,0.1)  /* efek bayangan */
   text align: center; /* menengah semua text didalam kartu */
 }
 
